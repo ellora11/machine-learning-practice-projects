@@ -9,7 +9,7 @@ Each folder is a self-contained project, often inspired by online tutorials, wit
 
 | # | Project | Description | Algorithm(s) | Source / Credits |
 |:-:|----------|--------------|---------------|------------------|
-| 1 | [Diabetes Prediction](./diabetes-prediction) | Predict diabetes based on medical data | Logistic Regression / SVM | @Siddhardhan (YouTube) |
+| 1 | [Diabetes Prediction] | Predict diabetes based on medical data | Logistic Regression / SVM | @Siddhardhan (YouTube) |
 | 2 | (Next Project) | – | – | – |
 
 ---
